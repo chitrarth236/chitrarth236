@@ -2,7 +2,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-I am Chitrarth Patel. I live in Victoria, BC. I am a Grad student in Computer Engineering at University of Victoria
+I am Chitrarth Patel. I live in Victoria, BC. I am a grad student in Computer Engineering at University of Victoria
 
 [![Linkedin Badge](https://img.shields.io/badge/-chitarth236-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chitrarth236/)](https://www.linkedin.com/in/chitrarth236/) [![Medium Badge](https://img.shields.io/badge/-@chitrarth236-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@chitrarth236/)](https://medium.com/@chitrarth236)
 [![Gmail Badge](https://img.shields.io/badge/-chitrarth236@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chitrarth236@gmail.com)](mailto:chitrarth236@gmail.com)
