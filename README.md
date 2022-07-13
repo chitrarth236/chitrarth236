@@ -21,6 +21,6 @@ I am Chitrarth Patel. I live in Victoria, BC. I am a grad student in Computer En
 - 🔔 Email me at : chitrarth236@gmail.com.
 - ⚡ My Motivation : Luck favors the prepared mind - Louis Pasteur
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=chitrarth236&hide=["issues"]&show_icons=true)
+<!--![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=chitrarth236&hide=["issues"]&show_icons=true) -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=chitrarth236.chitrarth236)
+<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=chitrarth236.chitrarth236) -->
